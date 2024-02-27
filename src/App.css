@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html, body {
+    font-family: "Poppins", sans-serif;
+}
+
+.react-tagsinput {
+  width: 320px !important;
+  border-radius: 0.5rem !important;
+}
+.react-tagsinput--focused {
+  border-color: #ccc !important;
+}
+.react-tagsinput-tag {
+  background-color: #a9f2ff !important;
+  border: 1px solid #ffffff !important;
+  border-radius: 5px !important;
+  color: #101010 !important;
+}
